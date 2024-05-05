@@ -1,0 +1,11 @@
+:root {
+    --main-color: #004F00;
+}
+
+.main-color {
+    color: var(--main-color);
+}
+
+.main-color-bg {
+    background-color: var(--main-color);
+}
